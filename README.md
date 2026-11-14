@@ -17,3 +17,6 @@ readme dosyası içine html veya mark down (md) kodu eklenebilir.
 <div style="text-align: center;">
 <p>Bu bölümde...</p>
 </div>
+<p align="center">
+  Bu yazı ortalanmış şekilde görünür.
+</p>

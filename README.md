@@ -1,5 +1,8 @@
 # python95
 Python ve yapayzeka 95 grubu 130 saat 07.11.2026
+
+readme dosyası içine html veya mark down (md) kodu eklenebilir.
+
 <br>
 <h2>Ana menu</h2>
 <img src="resimler/menu1.PNG" alt="program ana menusu">

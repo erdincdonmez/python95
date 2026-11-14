@@ -9,5 +9,11 @@ readme dosyası içine html veya mark down (md) kodu eklenebilir.
 <img height="50" src="resimler/menu1.PNG" alt="program ana menusu">
 <img width="100px" src="https://www.fullstackpython.com/img/logos/py.png" alt="program ana menusu">
 
+<center>
 <p>Bu bölümde...</p>
+</center>
+
 <hr>
+<div style="text-align: center;">
+<p>Bu bölümde...</p>
+</div>
